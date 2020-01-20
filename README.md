@@ -1,5 +1,5 @@
 # UIStackView
-Language: Swift 5
+Language: Swift 
 Learning Material: Sean Allen YT
 
 Topic: UIStackViews
